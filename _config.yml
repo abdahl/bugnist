@@ -1,0 +1,9 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+
+title: BugNIST
+description: Webpage for the BugNIST dataset
+
+show_downloads: "true"
+# google_analytics: [Your Google Analytics tracking ID]
