@@ -5,7 +5,5 @@ plugins:
 title: BugNIST
 description: Webpage for the BugNIST dataset
 logo: /images/logo_640x1024.png
-
-
-# show_downloads: "true"
+show_downloads: "true"
 # google_analytics: [Your Google Analytics tracking ID]
