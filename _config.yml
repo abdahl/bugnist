@@ -4,7 +4,7 @@ plugins:
 
 title: BugNIST
 description: Webpage for the BugNIST dataset
-logo: /images/logo_1024.png
+logo: /images/logo_640x1024.png
 
 
 # show_downloads: "true"
