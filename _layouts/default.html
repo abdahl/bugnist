@@ -31,10 +31,12 @@
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
 
+        <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
+        
         {% if site.show_downloads %}
         <ul class="downloads">
-            <li><a href="https://data.qim.dk/data-repository/">Download <strong>dataset</strong> from QIM</a></li>
-            <li><a href="https://arxiv.org/pdf/2304.01838.pdf">Get <strong>paper</strong> from ArXiv</a></li>
+            <li><a href="https://data.qim.dk/data-repository/">Download <strong>dataset</strong></a></li>
+            <li><a href="https://arxiv.org/pdf/2304.01838.pdf">Get arXiv<strong>paper</strong></a></li>
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
