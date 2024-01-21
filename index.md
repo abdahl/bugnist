@@ -22,7 +22,7 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
     - Large: 512x256x256 (individual) and 512x370x370 (mixtures)
     - Medium: 256x128x128 (individual) and 256x185x185 (mixtures)
     - Small: 128x64x64 (individual) and 128x92x92 (mixtures)
-    - Tiny: 64x32x32 (individual) and 64x47x47 (mixtures)
+    - Tiny: 64x32x32 (individual) and 64x46x46 (mixtures)
 
 **People:**
 - Anders Bjorholm Dahl, DTU Compute
