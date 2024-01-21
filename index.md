@@ -1,8 +1,8 @@
-# BugNIST - dataset for volumetric
+# BugNIST - dataset for volumetric analysis
 
 The BugNIST dataset is created to advance methods for classification and detection in 3D. It contains 9437 volumes where 9087 are of individual bugs and 350 are mixtures of bugs and other material. There are 12 types of bugs including larvae, pupae, insects, and woodlice. 
 
-In the BugNIST classification challenge, each volume containing a single bug must be classified as one of the 12 types. The original volumes are $900\times450\times450$ voxels, and in addition, we provide the data at different resolutions by downscaling the original scans. 
+In the BugNIST classification challenge, each volume containing a single bug must be classified as one of the 12 types. The original volumes are 900-by-450-by-450 voxels, and in addition, we provide the data at different resolutions by downscaling the original scans. 
 
 aims to benchmark classification and detection methods, and we have designed the detection challenge such that detection models are trained on scans of individual bugs and tested on bug mixtures. Models capable of solving this task will be independent of the context, i.e., the surrounding material. In cases where the context is unknown or changing, this is a great advantage, which is commonly occurring in 3D µCT. 
 
@@ -29,9 +29,9 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
 **Sponsors:**
 Novo Nordisk Foundation
 
-**Research paper:** (Reference to our paper)
+**Research paper:** (*Reference to our paper*)
 
-**Dataset examples:**
+**Dataset examples:** (*Insert examples*)
 
 
 **Tasks:**
