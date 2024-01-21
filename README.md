@@ -1,2 +1,2 @@
 # bugnist
-Project page for BugNIST dataset.
+Project page for the BugNIST dataset.
