@@ -17,6 +17,12 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
 -	9185 volumes of individual bugs
 -	388 volumes of bug mixtures with center point annotations
 -	Volume sizes: 900x450x450 (individual) and 900x650x650 (mixtures)
+-   Data available in sizes: 
+    - Original: 900x450x450 (individual) and 900x650x650 (mixtures)
+    - Large: 512x256x256 (individual) and 512x370x370 (mixtures)
+    - Medium: 256x128x128 (individual) and 256x185x185 (mixtures)
+    - Small: 128x64x64 (individual) and 128x92x92 (mixtures)
+    - Tiny: 64x32x32 (individual) and 64x47x47 (mixtures)
 
 **People:**
 - Anders Bjorholm Dahl, DTU Compute
@@ -27,7 +33,7 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
 - Hans Martin Kjer, DTU Compute
 
 **Sponsors:**
-Novo Nordisk Foundation
+Novo Nordisk Foundation, Villum Foundation
 
 **Research paper:** (*Reference to our paper*)
 
