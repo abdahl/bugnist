@@ -35,10 +35,11 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
 **Sponsors:**
 Novo Nordisk Foundation, Villum Foundation
 
-**Research paper:** (*Reference to our paper*)
+**Research paper:**
+Jensen, P. M., Dahl, V. A., Gundlach, C., Engberg, R., Kjer, H. M., & Dahl, A. B. (2023). BugNIST - a Large Volumetric Dataset for Object Detection under Domain Shift. ECCV - The 18th European Conference on Computer Vision, October 2024, Milan, Italy.
 
-**Dataset examples:** (*Insert examples*)
-
+**Dataset illustration:** 
+![](./images/bugs_overview.jpg)
 
 **Tasks:**
 The task is to detect or segment bugs in the mixtures, but only using the scans of individual bugs. Therefore, the mixture scans should only be used for testing algorithm performance, and not for training. The motivation is that preparing data for detection and especially segmentation in volumes is difficult and will take an extremely long time, especially for objects with a complex shape like bugs. If objects can be scanned individually, then the annotation becomes almost trivial because the objects can be separated from the background based on voxel intensities. The challenge is that the bugs in mixtures are placed in a different context.
