@@ -37,8 +37,8 @@ BugNIST is a volumetric dataset for object detection and segmentation. BugNIST h
 **Sponsors:**<br>
 Novo Nordisk Foundation, Villum Foundation
 
-**Research paper:<br>
-**When publishing based on BugNIST, it is mandatory to cite the following publication:<br>
+**Research paper:**<br>
+When publishing based on BugNIST, it is mandatory to cite the following publication:<br>
 Jensen, P. M., Dahl, V. A., Gundlach, C., Engberg, R., Kjer, H. M., & Dahl, A. B. (2023). BugNIST - a Large Volumetric Dataset for Object Detection under Domain Shift. ECCV - The 18th European Conference on Computer Vision, October 2024, Milan, Italy.
 
 
