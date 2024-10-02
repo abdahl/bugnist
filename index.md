@@ -9,6 +9,7 @@ In the BugNIST classification challenge, each volume containing a single bug mus
 aims to benchmark classification and detection methods, and we have designed the detection challenge such that detection models are trained on scans of individual bugs and tested on bug mixtures. Models capable of solving this task will be independent of the context, i.e., the surrounding material. In cases where the context is unknown or changing, this is a great advantage, which is commonly occurring in 3D µCT. 
 
 
+![](./images/bugs_overview.jpg)
 
 
 ## What is BugNIST?
@@ -42,8 +43,6 @@ When publishing based on BugNIST, it is mandatory to cite the following publicat
 Jensen, P. M., Dahl, V. A., Gundlach, C., Engberg, R., Kjer, H. M., & Dahl, A. B. (2023). BugNIST - a Large Volumetric Dataset for Object Detection under Domain Shift. ECCV - The 18th European Conference on Computer Vision, October 2024, Milan, Italy.
 
 
-**Dataset illustration:** 
-![](./images/bugs_overview.jpg)
 
 **Tasks:**<br>
 The task is illustrated here.
