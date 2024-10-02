@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="Lw-JRcJ9jX_vjJzv2CEG5vPr8HBFLr3oNU4SBgPtdUw" />
+
 # BugNIST - dataset for volumetric analysis
 
 The BugNIST dataset is created to advance methods for classification and detection in 3D. It contains 9542 volumes where 9154 are of individual bugs and 388 are mixtures of bugs and other material. There are 12 types of bugs including larvae, pupae, insects, and woodlice. 
