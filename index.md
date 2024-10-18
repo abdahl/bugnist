@@ -40,11 +40,21 @@ Novo Nordisk Foundation, Villum Foundation
 
 **Research paper:**<br>
 When publishing based on BugNIST, it is mandatory to cite the following publication:<br>
-Jensen, P. M., Dahl, V. A., Gundlach, C., Engberg, R., Kjer, H. M., & Dahl, A. B. (2023). BugNIST - a Large Volumetric Dataset for Object Detection under Domain Shift. ECCV - The 18th European Conference on Computer Vision, October 2024, Milan, Italy.
+Jensen, P. M., Dahl, V. A., Gundlach, C., Engberg, R., Kjer, H. M., & Dahl, A. B. (2024). BugNIST - a Large Volumetric Dataset for Object Detection under Domain Shift. ECCV - The 18th European Conference on Computer Vision, October 2024, Milan, Italy.
+
+**Bibtex:**
+```
+@inproceedings{jensen2023bugnist,
+  title={BugNIST-a Large Volumetric Dataset for Object Detection under Domain Shift},
+  author={Jensen, Patrick M{\o}ller and Dahl, Vedrana Andersen and Gundlach, Carsten and Engberg, Rebecca and Kjer, Hans Martin and Dahl, Anders Bjorholm},
+  booktitle={European conference on computer vision},
+  year={2024},
+  organization={Springer}
+  }
+```
 
 
-
-**Tasks:**<br>
+## Tasks:
 
 ![](./images/bugs.jpg)
 
